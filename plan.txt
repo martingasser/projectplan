@@ -1,4 +1,4 @@
-My project plan:
+Sebastian's and Martin's project plan:
 
 - Do research
 - Read a book
@@ -8,4 +8,3 @@ My project plan:
 - Do implementation
 - Do testing
 - Deployment
-- Sell the project
