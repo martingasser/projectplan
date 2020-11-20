@@ -8,3 +8,4 @@ Sebastian's and Martin's project plan:
 - Do implementation
 - Do testing
 - Deployment
+- Sell and be rich :)
