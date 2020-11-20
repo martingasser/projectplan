@@ -2,10 +2,10 @@ My project plan:
 
 - Do research
 - Read a book
+– Prepare interview
 - Conduct interview
 - Do requirements analysis
 - Do Use Case analysis
 - Do implementation
 - Do testing
 - Deployment
-- Sell the project
